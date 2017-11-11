@@ -20,11 +20,65 @@ author:
   email:            
 
 # Custom vars
-version:             1.0.0
-
-plugins:
-  - jekyll-paginate
+#version:             1.0.0
 
 
-paginate: 5
+JEKYLL_ENV: development
+
+# The shortname for your Disqus site to enable comments.
+disqus: 
+
+# http://jekyllrb.com/docs/pagination/
+paginate: 1
 paginate_path: '/blog/page:num/'
+
+
+plugins: 
+  - jekyll-paginate
+  - jekyll-typogrify
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-gist
+  - jemoji
+
+
+markdown: kramdown
+highlighter: rouge
+
+
+kramdown:
+    auto_ids: true
+    input:          GFM
+  # https://github.com/jekyll/jekyll/pull/4090
+    syntax_highlighter: rouge
+  # Rouge Highlighter in Kramdown › http://kramdown.gettalong.org/syntax_highlighter/rouge.html
+  # span, block element options fall back to global
+    syntax_highlighter_opts:
+    # Rouge Options › https://github.com/jneen/rouge#full-options
+    css_class: 'highlight'
+    #line_numbers: true # bad idea, spans don't need linenos and would inherit this option
+    span:
+      line_numbers: false
+    block:
+      line_numbers: true
+      start_line: 1
+
+
+
+#compress.html
+# compress_html:
+#   clippings: []
+#   comments: []
+#   endings: []
+#   ignore:
+#     envs: []
+#   blanklines: false
+#   profile: false
+#   startings: []
+
+
+
+# gist:
+#   noscript: false
+
+#analytics_id:
