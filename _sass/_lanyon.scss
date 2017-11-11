@@ -428,6 +428,7 @@ a.pagination-item:hover {
   }
   .pagination-item {
     float: left;
+    // controls the pagination button gap
     width: 43%;
     &:first-child {
       margin-bottom: 0;
