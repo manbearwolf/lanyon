@@ -12,6 +12,7 @@ tagline:             'A Jekyll theme'
 description:         'A reserved <a href="http://jekyllrb.com" target="_blank">Jekyll</a> theme that places the utmost gravity on content with a hidden drawer. Made by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
 url:                 "https://manbearwolf.github.io/"
 baseurl:             '/lanyon'
+#baseurl:            '/lanyon_site2'
 
 # About/contact
 author:
@@ -66,15 +67,15 @@ kramdown:
 
 
 #compress.html
-# compress_html:
-#   clippings: []
-#   comments: []
-#   endings: []
-#   ignore:
-#     envs: []
-#   blanklines: false
-#   profile: false
-#   startings: []
+compress_html:
+  clippings: []
+  comments: []
+  endings: []
+  ignore:
+    envs: []
+  blanklines: false
+  profile: false
+  startings: []
 
 
 
