@@ -23,12 +23,15 @@
   <link rel="stylesheet" href="{{ "/css/syntax.css" | relative_url }}">
   <link rel="stylesheet" href="{{ "/css/lanyon.css" | relative_url }}"> -->
 
-  <style type="text/css">
-    {% capture include_to_scssify %}
-      {% include styles.scss %}
-    {% endcapture %}
-    {{ include_to_scssify | scssify }}
-  </style>
+
+
+<style>
+  {% capture inlineCSS %}
+    {% include styles.scss %}
+  {% endcapture %}
+
+  {{ inlineCSS | scssify }}
+</style>
 
 
   <!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=PT+Serif:400,400italic,700%7CPT+Sans:400"> -->
