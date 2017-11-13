@@ -51,7 +51,6 @@ highlighter: rouge
 
 
 
-# capture around linenos tables in highlighter for compression on
 #compress.html
 # compress_html:
 #   clippings: []
