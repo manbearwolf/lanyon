@@ -58,15 +58,13 @@ Now-a-days plant stands are expensive (more than $50, usually), especially if yo
 <tbody>
 <tr> 
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant1-min.jpg" data-fancybox="images">
-<img data-original-height="236" data-original-width="236" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant1-min.jpg" /></a>  
+<img data-original-height="236" data-original-width="236" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant1-min.jpg" />
 </td> 
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant2-min.jpg" data-fancybox="images"><img data-original-height="444" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant2-min.jpg" /></a>  
+<img data-original-height="444" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant2-min.jpg" />
 </td> 
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant3-min.jpg" data-fancybox="images">
-<img data-original-height="640" data-original-width="480" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant3-min.jpg" /></a>  
+<img data-original-height="640" data-original-width="480" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant3-min.jpg" />
 </td> 
 </tr>
 </tbody>
@@ -87,18 +85,15 @@ Well, I came across a pretty good alternative, on <a href="https://smile.amazon.
 <tbody>
 <tr> 
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant4-min.jpg" data-fancybox="images">
-<img data-original-height="500" data-original-width="500" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant4-min.jpg" /></a>
+<img data-original-height="500" data-original-width="500" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant4-min.jpg" />
 <div class="caption-text">Water Jug & Stand</div>
 </td>
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant5-min.jpg" data-fancybox="images">
-<img data-original-height="441" data-original-width="500" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant5-min.jpg" /></a>
+<img data-original-height="441" data-original-width="500" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant5-min.jpg" />
 <div class="caption-text">Water Jug stand usable as a plant stand.</div>
 </td>
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant6-min.png" data-fancybox="images">
-<img data-original-height="900" data-original-width="1600" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant6-min.png" /></a>
+<img data-original-height="900" data-original-width="1600" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant6-min.png" />
 <div class="caption-text">Bluewave Lifestyle Counter Wood Stand -7.5", Natural Varnish by Bluewave Lifestyle</div>
 </td>
 </tr>
@@ -118,34 +113,29 @@ Well, I came across a pretty good alternative, on <a href="https://smile.amazon.
 <tbody>
 <tr>
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant7-min.jpg" data-fancybox="images" data-width="640" data-height="480">
-<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant7-min.jpg" /></a>
+<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant7-min.jpg" />
 <div class="caption-text">The extra space at the bottom looks better on my plants (size 10"), I think, but doesn't matter that much, both work, I tested both sizes.</div>
 </td>
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant8-min.jpg" data-fancybox="images" data-width="640" data-height="480">
-<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant8-min.jpg" /></a>
+<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant8-min.jpg" />
 <div class="caption-text">The stands look really nice and the plants are off the floor.</div>
 </td>
 </tr>
 <tr>
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant9-min.jpg" data-fancybox="images" data-width="640" data-height="480">
-<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant9-min.jpg" /></a>
+<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083520/BlogInnMin/posts/plants/plant9-min.jpg" />
 <div class="caption-text">
 The stands can also fit a size 12" pot and 12 "plant saucer, if you wish, but is really a tight fit at the bottom, but can fit.</div>
 </td>
 <td class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083522/BlogInnMin/posts/plants/plant10-min.jpg" data-fancybox="images" data-width="640" data-height="480">
-<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083522/BlogInnMin/posts/plants/plant10-min.jpg" /></a>
+<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083522/BlogInnMin/posts/plants/plant10-min.jpg" />
 <div class="caption-text">
 The stands fit a size 10" pot and 10" plant saucer with a little bit of extra space at the bottom.</div>
 </td>
 </tr>
 <tr>
 <td colspan="2" class="dota">
-<a href="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant11-min.jpg" data-fancybox="images" data-width="640" data-height="480">
-<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant11-min.jpg" /></a>  
+<img data-original-height="480" data-original-width="640" src="https://res.cloudinary.com/mbott1982/image/upload/v1510083521/BlogInnMin/posts/plants/plant11-min.jpg" />
 </td>
 </tr>
 </tbody>
