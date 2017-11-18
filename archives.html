@@ -3,6 +3,24 @@ layout: page
 title: Archives
 ---
 
+<!-- Html Elements for Search -->
+<div id="search-container">
+    <input type="text" id="search-input" placeholder="Search...">
+    <ul id="results-container"></ul>
+</div>
+    
+<!-- Script pointing to search-script.js -->
+<script src="{{ site.baseurl }}/js/simple-jekyll-search.min.js" type="text/javascript"></script>
+    
+<!-- Configuration -->
+<script>
+    SimpleJekyllSearch({
+    searchInput: document.getElementById('search-input'),
+    resultsContainer: document.getElementById('results-container'),
+    json: '{{ site.baseurl }}/js/search.json'
+    })
+</script>
+
 <!-- 
 http://chris.house/blog/building-a-simple-archive-page-with-jekyll/ 
 -->
