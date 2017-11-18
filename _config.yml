@@ -25,7 +25,7 @@ author:
 
 # Custom vars
 version: 1.1.0
-repository: "/manbearwolf/lanyon"
+
 
 JEKYLL_ENV: development
 
