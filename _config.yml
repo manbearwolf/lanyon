@@ -49,7 +49,7 @@ plugins:
 markdown: kramdown
 highlighter: rouge
 
-
+excerpt_separator: "<!--more-->"
 
 #compress.html
 # compress_html:
