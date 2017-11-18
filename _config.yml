@@ -19,13 +19,13 @@ baseurl:             '/lanyon'
 
 # About/contact
 author:
-  name:             
+  name:              
   url:               
   email:            
 
 # Custom vars
-#version:             1.0.0
-
+version: 1.0.0
+repo: "/manbearwolf/lanyon"
 
 JEKYLL_ENV: development
 
