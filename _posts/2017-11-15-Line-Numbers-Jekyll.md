@@ -4,7 +4,6 @@ title: "No Linenos Highlighter Line Numbering In Jekyll w/Only JS & CSS"
 date: 2017-11-15
 author: Matthew Bott
 tags: [coding]
-banner_image: "https://res.cloudinary.com/mbott1982/image/upload/v1510982489/BlogInn/Posts/linenos/athletic-field-1867053_640.jpg"
 ---
 
 Here is how to create a line numbering in Jekyll without the uses of linenos, which is a command with highlighter [<a href="https://jekyllrb.com/docs/templates/#line-numbers" rel="nofollow" target="_blank">Source</a>].
