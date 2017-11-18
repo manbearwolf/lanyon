@@ -16,8 +16,9 @@ Rufus is like any other .iso loader, except you can change settings for the UEFI
 
 You will want to download the windows .iso and choose the settings **<u>GPT partition scheme for UEFI computer</u>** and load the .iso file. This all loads onto a bootable USB.
 
-
+<center>
 <img src="https://res.cloudinary.com/mbott1982/image/upload/v1510083618/BlogInnMin/posts/rufus/rufus-min.png" title="ScreenShot Rufus" caption="Rufus" />
+</center>
 
 **That's it!**<br />
 It should boot windows and install with UEFI Enabled.  This makes the entire complicated problem of this stuff simple and easy.
