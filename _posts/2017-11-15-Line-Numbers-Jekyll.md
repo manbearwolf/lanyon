@@ -6,6 +6,8 @@ author: Matthew Bott
 tags: [coding]
 ---
 
+<script>new Clipboard('.btn');</script>
+
 Here is how to create a line numbering in Jekyll without the uses of linenos, which is a command with highlighter [<a href="https://jekyllrb.com/docs/templates/#line-numbers" rel="nofollow" target="_blank">Source</a>].
 
 Let's look at how the code works...
