@@ -104,7 +104,7 @@ See the entire gist file tree on GitHub... <a href="https://gist.github.com/manb
 * Both use .json files.  We should delete any fields we do not use in them.
 * It best operates in sepearate files (less errors this way).
 * Loading it on one page should work and be used.
-* Both require JQuery to load.
+* Just LunrJS requires JQuery to load.
 
 <div class="dota">
 <a href="https://github.com/christian-fei/Simple-Jekyll-Search" rel="nofollow" target="_blank">Simple Jekyll Search</a> on GitHub.
