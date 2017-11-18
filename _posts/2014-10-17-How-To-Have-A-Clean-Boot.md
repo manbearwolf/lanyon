@@ -3,6 +3,7 @@ layout: post
 title: "How To Have A Clean Boot Of Windows 8.1 with UEFI Mode Enabled"
 date: 2014-10-17
 tags: [software]
+author: Matthew Bott
 ---
 
 On my new netbook, I discovered you need to do more than just create a boot-able .iso of Windows 8.1, for it to load correctly in BIOS.  Legacy BIOS mode is great, but not as good and as fast as UEFI made for Microsoft Windows. Which is used in newer computers using Windows 8.1.  You need to download a program called Rufus 1.4.10.514, to go around this problem, otherwise, you need to change your BIOS <kbd>(F2)</kbd> at boot and change the setting to Legacy BIOS, which will run anyway, but not as good as UEFI.
