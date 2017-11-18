@@ -19,13 +19,13 @@ baseurl:             '/lanyon'
 
 # About/contact
 author:
-  name:              
+  name: Matthew Bott              
   url:               
   email:            
 
 # Custom vars
-version: 1.0.0
-repo: "/manbearwolf/lanyon"
+version: 1.1.0
+repository: "/manbearwolf/lanyon"
 
 JEKYLL_ENV: development
 
