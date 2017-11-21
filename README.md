@@ -5,6 +5,12 @@
 Fixed up Render Blocking CSS.<br />
 https://manbearwolf.github.io/lanyon/
 
+How to start lanyon...
+
+https://www.youtube.com/watch?v=uh4FHTOOj9Q
+
+
+
 
 Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
 
