@@ -1,13 +1,19 @@
 # Lanyon
 
+How to start lanyon...
+
+https://www.youtube.com/watch?v=uh4FHTOOj9Q
+
+
 <b>11-11-17 [Google Page Speed](https://developers.google.com/speed/pagespeed/)</b><br />
 100/100 mobile 100/100 desktop<br />
 Fixed up Render Blocking CSS.<br />
 https://manbearwolf.github.io/lanyon/
 
-How to start lanyon...
 
-https://www.youtube.com/watch?v=uh4FHTOOj9Q
+
+
+
 
 
 
